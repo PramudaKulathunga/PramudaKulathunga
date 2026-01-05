@@ -39,8 +39,6 @@
   <tr border="none">
     <td width="50%" align="center">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PramudaKulathunga&theme=dark&show_icons=true&count_private=true&cache_seconds=3600" />
-      <br><br>
-      <img src="https://streak-stats.demolab.com?user=PramudaKulathunga&theme=dark" />
     </td>
     <td width="50%" align="center">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PramudaKulathunga&theme=dark&hide_border=false&count_private=true&cache_seconds=3600" />
