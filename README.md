@@ -30,21 +30,15 @@
 - 🌐 Check out my website: **[Your Website URL Here]**
 - 📫 How to reach me **pramudakulathunga@gmail.com**
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-<p align="center">
-  <a href="https://linkedin.com/in/pramuda-kulathunga" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramuda-kulathunga" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/PramudaKulathunga" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramuda kulathunga" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/pramudakule" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pramudakule" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_WEBSITE_URL" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/globe--v1.png" alt="website" height="30" width="40" />
-  </a>
-</p>
+<br clear="all">
+
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <a href="https://linkedin.com/in/pramuda-kulathunga" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> | <a href="https://www.facebook.com/PramudaKulathunga" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a> | <a href="https://twitter.com/pramudakule" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> | <a href="YOUR_WEBSITE_URL" target="blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/globe--v1.png" alt="website" height="30" width="40" /></a> |
+
+<br/>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
