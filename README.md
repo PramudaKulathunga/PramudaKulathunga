@@ -52,11 +52,11 @@
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PramudaKulathunga&theme=dark&show_icons=true&count_private=true&cache_seconds=3600" />
       <br><br>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PramudaKulathunga&theme=dark" alt="GitHub Streak" />
-    </td>
+     </td>
     <td width="50%" align="center">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PramudaKulathunga&theme=dark&hide_border=false&count_private=true&cache_seconds=3600" />
-    </td>
-  </td>
+     </td>
+   </tr>
 </table>
 
 <br/>
@@ -80,6 +80,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </span>
 
@@ -123,6 +125,7 @@
 </p>
 
 ## Recent Activity <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramudaKulathunga&theme=react-dark&bg_color=0d1117&hide_border=true" />
 </p>
